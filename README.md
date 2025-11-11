@@ -377,8 +377,8 @@ Java Swing dipakai untuk membuat Aplikasi Desktop. Semua tampilan berupa form, t
 <img width="998" height="334" alt="image" src="https://github.com/user-attachments/assets/0fc163ba-1c2f-45f6-8335-577bcfda4288" />
 
 
-- Tampilan Dashboard???
-<img width="1114" height="775" alt="image" src="https://github.com/user-attachments/assets/9099e2c2-e8d2-487a-ba39-cec79aad3e0a" />
+- Tampilan Dashboard
+<img width="1115" height="767" alt="image" src="https://github.com/user-attachments/assets/2c610a59-538e-4f32-85b9-140469264c28" />
 
 
 - Tampilan Login
@@ -438,7 +438,7 @@ Java Swing dipakai untuk membuat Aplikasi Desktop. Semua tampilan berupa form, t
 4. **GUI Pelanggan**
 
 - Tampilan Beranda Pelanggan
-<img width="1232" height="624" alt="image" src="https://github.com/user-attachments/assets/7a8f0028-91d5-4106-9228-b56a1f79e258" />
+<img width="1236" height="626" alt="image" src="https://github.com/user-attachments/assets/a8d184fe-5008-4768-bfa9-572412177066" />
 
 - Tampilan Belanja Pelanggan
 <img width="1410" height="636" alt="image" src="https://github.com/user-attachments/assets/4882bb1e-67c0-46f7-b604-861f97bddb73" />
